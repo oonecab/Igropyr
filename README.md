@@ -1670,7 +1670,7 @@ trivial keep-alive route on an Apple Silicon laptop.
 Run the complete, self-asserting test suite:
 
 ```sh
-./igropyr/test/run-all.sh
+sh igropyr/test/run-all.sh
 ```
 
 It checks library imports, actor scheduling, asynchronous file reads, strict
